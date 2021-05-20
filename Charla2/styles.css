@@ -4,20 +4,18 @@ body {
 
 .search-box {
     background-color: #FEE600;
-    height: 56px;
 }
 
 .container {
     width: 980px;
     margin: auto;
     display: flex;
-    align-items: baseline;
+    align-items: center;
+    height: 56px;
 }
 
 .logo {
     margin-right: 20px;
-    position: relative;
-    top: 8px;
 }
 
 .search-field {
